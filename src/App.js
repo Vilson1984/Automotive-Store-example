@@ -1,10 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Car from './components/Banner/Car';
 function App() {
   return (
-  <h1> Automotive Store </h1>
-  );
+    <div className='Main'>
+
+
+      <Car />
+    </div>
+  )
+
 }
 
 export default App;

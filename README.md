@@ -1,3 +1,43 @@
+React Car Rental App
+
+Bem-vindo à React Car Rental App! 🚗✨
+
+Sobre:
+
+Esta é uma aplicação de locadora de veículos desenvolvida em React, oferecendo uma experiência moderna e eficiente para aluguel de carros. Explore nossa ampla frota e desfrute da conveniência de alugar um veículo diretamente de seu navegador.
+Recursos Principais
+
+    Interface Intuitiva: Navegue e alugue carros de forma fácil e rápida através de uma interface intuitiva.
+
+Como Executar Localmente
+
+    Clone o Repositório:
+
+    bash
+
+git clone https://github.com/Vilson1984/Automotive-Store-example
+
+Instale as Dependências:
+
+bash
+
+cd react-automotive-example-app
+npm install
+
+Inicie a Aplicação:
+
+bash
+
+    npm start
+
+    Acesse Localmente:
+    Abra http://localhost:3000 no seu navegador.
+
+Contribuição
+
+Se você deseja contribuir para o desenvolvimento deste projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request. Sua contribuição é valiosa para melhorar nossa aplicação de locação de carros em React.
+Contato
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

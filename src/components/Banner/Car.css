@@ -1,0 +1,31 @@
+.Painel{
+    background-color: #b00;
+    color: #ffffff;
+    text-align: center;
+    display: block ruby;
+    position: relative;
+    top: 80px;
+}
+
+.Image-Car{
+    width: 380px;
+    border: 2px solid #c7c7f0;
+}
+
+.Title-car{
+    border-bottom: 1px solid;
+    width: fit-content;
+    margin: 10px auto;
+  }
+
+.Box-Car{
+    margin: 10px;
+    border: #ffffff 1px solid;
+    width: 400px;
+}
+.Id-car{
+    text-align:end;
+    margin: 5px;
+    font-size: small;
+    font-style: italic;
+}
