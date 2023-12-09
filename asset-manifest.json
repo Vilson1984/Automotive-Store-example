@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/automotive_store_example/static/css/main.10efdb5f.css",
+    "main.js": "/automotive_store_example/static/js/main.59a5fbf4.js",
+    "static/js/787.8fb3b825.chunk.js": "/automotive_store_example/static/js/787.8fb3b825.chunk.js",
+    "static/media/uno.jpg": "/automotive_store_example/static/media/uno.8afb33cb0c19920c28e9.jpg",
+    "static/media/fiesta.jpg": "/automotive_store_example/static/media/fiesta.4f7afc248e5bcbe7dc66.jpg",
+    "static/media/palio.jpg": "/automotive_store_example/static/media/palio.9074dc30347ff0f4b649.jpg",
+    "static/media/Onix.png": "/automotive_store_example/static/media/Onix.57c404182c3d58da189e.png",
+    "index.html": "/automotive_store_example/index.html",
+    "main.10efdb5f.css.map": "/automotive_store_example/static/css/main.10efdb5f.css.map",
+    "main.59a5fbf4.js.map": "/automotive_store_example/static/js/main.59a5fbf4.js.map",
+    "787.8fb3b825.chunk.js.map": "/automotive_store_example/static/js/787.8fb3b825.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10efdb5f.css",
+    "static/js/main.59a5fbf4.js"
+  ]
+}
