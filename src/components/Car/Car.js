@@ -1,19 +1,15 @@
-function Car({ carList }) {
+import './Car.css';
+
+
+function Car({ title, id, text, imageUrl }) {
     return (
-        <>
-            <h1 className='Main-Title'> Automotive Store </h1>        
-            <div className='Painel'>
-                {carList.map((item, index) => (
-                    <div className='Box-Car'>
-                        <p key={index} className='Title-car'>{item.title}</p>
-                        <p key={index} className='Id-car'>ID:{item.id}</p>
-                        <img src={item.imageUrl} alt={item.title} className='Image-Car' />
-                        <p key={index}>{item.text}</p>
-                    </div>
-                ))}
-            </div>
-        </>
+        <div className="Box-Car">
+            <p className="Title-Car"> {title}</p>
+            <p className="Id-Car"> ID: {id} </p>
+            <img src={imageUrl} alt={title} />
+            <p className="Text-Car">  {text} </p>
+        </div>
     )
 }
 
-export default Car
+export default Car;
