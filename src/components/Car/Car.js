@@ -12,4 +12,5 @@ function Car({ title, id, text, imageUrl }) {
     )
 }
 
+
 export default Car;

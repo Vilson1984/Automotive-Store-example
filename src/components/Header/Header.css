@@ -1,0 +1,27 @@
+Body{
+    margin: 10px;
+}
+
+.Title-Header{
+    margin: 10px;
+    font-style: italic;
+    font-size: unset;
+}
+
+.Menu{
+    display:flex;
+    align-items: center;
+}
+
+.Menu, a{
+    margin-right: 10px;
+    color:#1c2c8b;
+    padding: 0 10px;
+    border-right: solid #b00 1px;
+    text-decoration: none;
+}
+
+.h2{
+    font-style: italic;
+    font-size: small;
+}

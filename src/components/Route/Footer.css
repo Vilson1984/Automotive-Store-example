@@ -1,0 +1,20 @@
+ .Footer {
+     position: relative;
+     bottom: -93px;
+     width: auto;
+     color: #ffffff;
+     background-color: #bb0000;
+     text-align: center;
+ }
+
+ .Facebook, .Instagram, .X{
+    border-right: #ffffff solid 1px;
+    margin: 5px 0 5px 0;
+    display: inline-flex;
+    height: 50%;
+  }
+
+ .Redes-Sociais{
+    justify-content: center;
+   
+}

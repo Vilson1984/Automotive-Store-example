@@ -4,7 +4,7 @@ Bem-vindo à Automotive Store Example App! 🚗✨
 
 ## Sobre:
 
-> Esta é uma aplicação de loja de veículos desenvolvida em React
+> Esta é uma aplicação desenvolvida em React, para uma loja de veículos 
 
 ## Como Executar Localmente 
 Bash  
